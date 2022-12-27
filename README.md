@@ -1,4 +1,4 @@
-# -read_list_of_sql_script_in_python
+# Read list of SQL scripts in Python and Save as CSV file
 
 The script imports the following libraries:
 
