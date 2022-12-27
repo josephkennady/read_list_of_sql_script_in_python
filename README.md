@@ -1,0 +1,1 @@
+# -read_list_of_sql_script_in_python
